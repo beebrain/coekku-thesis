@@ -75,7 +75,7 @@ $query_builder = TRUE;
 
 $db['default'] = array(
 	'dsn'	=> '',
-	'hostname' => '	kavfu5f7pido12mr.cbetxkdyhwsb.us-east-1.rds.amazonaws.com',
+	'hostname' => 'kavfu5f7pido12mr.cbetxkdyhwsb.us-east-1.rds.amazonaws.com',
 	'username' => 'aeo9i6n9uhxa7yem',
 	'password' => 'bby8twhadjyycsgs',
 	'database' => 'u17ydztfuqo8nuwo',
